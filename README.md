@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Houses in USA DataScience Project 
 *Assist House Rocket CEO on market analysis*
+=======
+# Houses in USA DataScience Project - Helping the House Rocket CEO
+>>>>>>> 6fd853c6d46698649136849896e84a4f4d878acf
 
 
 
@@ -7,6 +11,7 @@
 - Document here the project: housing_usa
 
 
+<<<<<<< HEAD
 - Description: The House Rocket CEO would like to maximize the company's revenue by finding good business opportunities. The CEO's strategy is to buy good homes in great locations at low prices and then later resell them at higher prices. This Project answer the following CEO questions:
 
 1. Which houses should the House Rocket CEO buy and at what purchase price?
@@ -29,6 +34,35 @@
 
 ```bash
 **Columm definition**
+=======
+
+- Description: The House Rocket CEO would like to maximize the company's revenue by finding good business opportunities. The CEO's strategy is to buy good homes in great locations at low prices and then later resell them at higher prices. This Project answer the following CEO questions:
+
+
+
+1. Which houses should the House Rocket CEO buy and at what purchase price?
+
+
+
+2. Once the house is in the company's possession, when is the best time to sell it and what would the sale price be?
+
+
+
+3. Should House Rocket do a renovation to increase the sale price? What would be the suggestions for changes? What is the increment in the price given by each reform option?
+
+
+
+- Data Source: [House Rocket Kaggle](https://www.kaggle.com/code/lucascapovilla/house-rocket)
+
+
+
+- Type of analysis: Exploratory Data Analysis
+
+
+
+```bash
+Columm definition
+>>>>>>> 6fd853c6d46698649136849896e84a4f4d878acf
 id - Unique ID for each home sold
 date - Date of the home sale
 price - Price of each home sold
@@ -55,4 +89,8 @@ sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
 
 
+<<<<<<< HEAD
 [Fonte: Seja um data scientist](https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)
+=======
+[Fonte: Seja um data scientist](https://medium.com/@meigarom/os-5-projetos-de-data-science-que-far%C3%A1-o-recrutador-olhar-para-voc%C3%AA-c32c67c17cc9)
+>>>>>>> 6fd853c6d46698649136849896e84a4f4d878acf
