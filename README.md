@@ -3,7 +3,7 @@
 
 
 ## Data analysis
-- Document here the project: house_salesUSA
+- Document here the project: housing_usa
 
 
 
